@@ -6,7 +6,7 @@ A super simple CSS framework made to look terminal-like.
 ## Getting Started
 You can use term.css by including it at the top of the page:
 ```
-<link rel="stylesheet" href="https://raw.githubusercontent.com/jake-walker/term.css/master/term.css">
+<link rel="stylesheet" href="https://cdn.rawgit.com/jake-walker/term.css/master/term.css">
 ```
 or you can use the [starter template](https://github.com/jake-walker/term.css/blob/master/template.html).
 
