@@ -156,6 +156,22 @@ pre {
   text-indent: 2em;
 }
 
+input[type="text"] {
+  background: none;
+  color: #fff;
+  border-bottom-style: solid;
+  border-bottom-color: #b9b9b9;
+  border-top-style: none;
+  border-left-style: none;
+  border-right-style: none;
+}
+
+button {
+  color: #fff;
+  background: none;
+  border-style: solid;
+}
+
 .row {
   margin-left: -15px;
   margin-right: -15px;

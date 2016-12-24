@@ -87,3 +87,17 @@ The pull class is used to float elements on the left, right or center of the scr
 ```
 
 Similar to the grid. `xs` - Portrait Phones, `sm` - Landscape Phones, `md` - Tablets, `lg` - Computers, `xl` - Massive Screens
+
+### Forms
+*Please note: this is in beta. please leave an issue if something isn't working correctly.*
+
+#### Text
+```
+<input type="text">
+```
+
+#### Button
+*This style isn't set in stone. I actually think it looks pretty bad.*
+```
+<button type="button">Hello</button>
+```
